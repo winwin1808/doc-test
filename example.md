@@ -2,155 +2,155 @@
 
 **Main Sections in the User Guide (with links to each section):**
 
-[[Các mục chính trong bài hướng dẫn (kèm link đến mục):]{.underline}](#các-mục-chính-trong-bài-hướng-dẫn-kèm-link-đến-mục)
+[[Các mục chính trong bài hướng dẫn (kèm link đến mục):]](#các-mục-chính-trong-bài-hướng-dẫn-kèm-link-đến-mục)
 
-[[1. Hướng dẫn tích hợp Facebook vào tin nhắn đa kênh]{.underline}](#hướng-dẫn-tích-hợp-facebook-vào-tin-nhắn-đa-kênh)
+[[1. Hướng dẫn tích hợp Facebook vào tin nhắn đa kênh]](#hướng-dẫn-tích-hợp-facebook-vào-tin-nhắn-đa-kênh)
 
-[[(Guide to Integrating Facebook into Multi-channel Messaging)]{.underline}](#guide-to-integrating-facebook-into-multi-channel-messaging)
+[[(Guide to Integrating Facebook into Multi-channel Messaging)]](#guide-to-integrating-facebook-into-multi-channel-messaging)
 
-> [[1.1. Bước 1: Truy cập vào trang Tích hợp Facebook]{.underline}](#bước-1-truy-cập-vào-trang-tích-hợp-facebook)
+> [[1.1. Bước 1: Truy cập vào trang Tích hợp Facebook]](#bước-1-truy-cập-vào-trang-tích-hợp-facebook)
 >
-> [[(Step 1: Access the Facebook Integration Page)]{.underline}](#step-1-access-the-facebook-integration-page)
+> [[(Step 1: Access the Facebook Integration Page)]](#step-1-access-the-facebook-integration-page)
 >
-> [[1.2. Bước 2: Tại trang Tích hợp Facebook, click nút Tích hợp]{.underline}](#bước-2-tại-trang-tích-hợp-facebook-click-nút-tích-hợp)
+> [[1.2. Bước 2: Tại trang Tích hợp Facebook, click nút Tích hợp]](#bước-2-tại-trang-tích-hợp-facebook-click-nút-tích-hợp)
 
-[[(Step 2: On the Facebook Integration page, click the Integrate button.)]{.underline}](#step-2-on-the-facebook-integration-page-click-the-integrate-button.)
+[[(Step 2: On the Facebook Integration page, click the Integrate button.)]](#step-2-on-the-facebook-integration-page-click-the-integrate-button.)
 
-> [[1.3. Dùng tài khoản Admin của page để tích hợp]{.underline}](#dùng-tài-khoản-admin-của-page-để-tích-hợp)
+> [[1.3. Dùng tài khoản Admin của page để tích hợp]](#dùng-tài-khoản-admin-của-page-để-tích-hợp)
 
 [2. Hướng dẫn thiết lập Fanpage Facebook trên AntCRM](#hướng-dẫn-thiết-lập-fanpage-facebook-trên-antcrm)
 
 > [2.1. Thêm Hỗ trợ:](#thêm-hỗ-trợ)
 
-[[(Adding support:)]{.underline}](#adding-support)
+[[(Adding support:)]](#adding-support)
 
 > [2.2. Cấu hình phân công](#cấu-hình-phân-công)
 
 [3. Hướng dẫn quản lý chat với khách hàng Facebook](#hướng-dẫn-quản-lý-chat-với-khách-hàng-facebook)
 
-[[(Guide to Managing Facebook Chats with Customers)]{.underline}](#guide-to-managing-facebook-chats-with-customers)
+[[(Guide to Managing Facebook Chats with Customers)]](#guide-to-managing-facebook-chats-with-customers)
 
 > [3.1. Hướng dẫn gửi tin nhắn cho khách hàng](#hướng-dẫn-gửi-tin-nhắn-cho-khách-hàng)
 >
-> [[(Guide to Sending Messages to Customers)]{.underline}](#guide-to-sending-messages-to-customers)
+> [[(Guide to Sending Messages to Customers)]](#guide-to-sending-messages-to-customers)
 >
-> [[3.2. Hướng dẫn Xem lịch sử hội thoại]{.underline}](#hướng-dẫn-xem-lịch-sử-hội-thoại)
+> [[3.2. Hướng dẫn Xem lịch sử hội thoại]](#hướng-dẫn-xem-lịch-sử-hội-thoại)
 >
-> [[(Guide to Viewing Conversation History)]{.underline}](#guide-to-viewing-conversation-history)
+> [[(Guide to Viewing Conversation History)]](#guide-to-viewing-conversation-history)
 
 [4. Hướng dẫn quản lý comment Facebook](#hướng-dẫn-quản-lý-comment-facebook)
 
-[[(Guide to Managing Facebook Comments)]{.underline}](#guide-to-managing-facebook-comments)
+[[(Guide to Managing Facebook Comments)]](#guide-to-managing-facebook-comments)
 
 > [4.1. Hướng dẫn bình luận hỗ trợ khách hàng](#hướng-dẫn-bình-luận-hỗ-trợ-khách-hàng)
 >
-> [[(Customer Support Commenting Guide)]{.underline}](#customer-support-commenting-guide)
+> [[(Customer Support Commenting Guide)]](#customer-support-commenting-guide)
 >
 > [4.2. Hướng dẫn ẩn bình luận](#hướng-dẫn-ẩn-bình-luận)
 >
-> [[(Guide to Hiding Comments)]{.underline}](#guide-to-hiding-comments)
+> [[(Guide to Hiding Comments)]](#guide-to-hiding-comments)
 >
 > [4.3. Hướng dẫn chỉnh sửa bình luận](#hướng-dẫn-chỉnh-sửa-bình-luận)
 >
-> [[(Guide to Editing Comments)]{.underline}](#guide-to-editing-comments)
+> [[(Guide to Editing Comments)]](#guide-to-editing-comments)
 >
 > [4.4. Hướng dẫn xóa bình luận](#hướng-dẫn-xóa-bình-luận)
 >
-> [[(Guide to Deleting Comments)]{.underline}](#guide-to-deleting-comments)
+> [[(Guide to Deleting Comments)]](#guide-to-deleting-comments)
 >
-> [[4.5. Hướng dẫn Like/Unlike bình luận]{.underline}](#hướng-dẫn-likeunlike-bình-luận)
+> [[4.5. Hướng dẫn Like/Unlike bình luận]](#hướng-dẫn-likeunlike-bình-luận)
 >
-> [[(Guide to Liking/Unliking Comments)]{.underline}](#guide-to-likingunliking-comments)
+> [[(Guide to Liking/Unliking Comments)]](#guide-to-likingunliking-comments)
 
-[[5. Hướng dẫn quản lý bài Post của trang]{.underline}](#hướng-dẫn-quản-lý-bài-post-của-trang)
+[[5. Hướng dẫn quản lý bài Post của trang]](#hướng-dẫn-quản-lý-bài-post-của-trang)
 
-[[(Guide to Managing Page Posts)]{.underline}](#guide-to-managing-page-posts)
+[[(Guide to Managing Page Posts)]](#guide-to-managing-page-posts)
 
-> [[(Guide to see more comments)]{.underline}](#guide-to-see-more-comments)
+> [[(Guide to see more comments)]](#guide-to-see-more-comments)
 >
-> [[5.2. Hướng dẫn trả lời bình luận]{.underline}](#hướng-dẫn-trả-lời-bình-luận)
+> [[5.2. Hướng dẫn trả lời bình luận]](#hướng-dẫn-trả-lời-bình-luận)
 >
-> [[(Guide to answer the comment)]{.underline}](#guide-to-answer-the-comment)
+> [[(Guide to answer the comment)]](#guide-to-answer-the-comment)
 >
-> [[5.3. Hướng dẫn xem bài viết,bình luận trên facebook]{.underline}](#hướng-dẫn-xem-bài-viếtbình-luận-trên-facebook)
+> [[5.3. Hướng dẫn xem bài viết,bình luận trên facebook]](#hướng-dẫn-xem-bài-viếtbình-luận-trên-facebook)
 >
-> [[(Guide to Viewing Posts and Comments on Facebook)]{.underline}](#guide-to-viewing-posts-and-comments-on-facebook)
+> [[(Guide to Viewing Posts and Comments on Facebook)]](#guide-to-viewing-posts-and-comments-on-facebook)
 
 [6. Hướng dẫn thay đổi người phụ trách session](#hướng-dẫn-thay-đổi-người-phụ-trách-session)
 
-[[(Guide to Changing the Session Owner)]{.underline}](#guide-to-changing-the-session-owner)
+[[(Guide to Changing the Session Owner)]](#guide-to-changing-the-session-owner)
 
-[[7. Hướng dẫn thêm user hỗ trợ vào một session tin nhắn, bình luận:]{.underline}](#hướng-dẫn-thêm-user-hỗ-trợ-vào-một-session-tin-nhắn-bình-luận)
+[[7. Hướng dẫn thêm user hỗ trợ vào một session tin nhắn, bình luận:]](#hướng-dẫn-thêm-user-hỗ-trợ-vào-một-session-tin-nhắn-bình-luận)
 
-[[(Guide to Adding a Support User to a Message or Comment Session)]{.underline}](#guide-to-adding-a-support-user-to-a-message-or-comment-session)
+[[(Guide to Adding a Support User to a Message or Comment Session)]](#guide-to-adding-a-support-user-to-a-message-or-comment-session)
 
-[[8. Hướng dẫn gắn nhãn cho session]{.underline}](#hướng-dẫn-gắn-nhãn-cho-session)
+[[8. Hướng dẫn gắn nhãn cho session]](#hướng-dẫn-gắn-nhãn-cho-session)
 
-[[(Guide to Tagging a Session)]{.underline}](#guide-to-tagging-a-session)
+[[(Guide to Tagging a Session)]](#guide-to-tagging-a-session)
 
 [9. Hướng dẫn gửi hình ảnh](#hướng-dẫn-gửi-hình-ảnh)
 
-[[(Guide to Sending Images)]{.underline}](#guide-to-sending-images)
+[[(Guide to Sending Images)]](#guide-to-sending-images)
 
-[[10. Hướng dẫn Đánh dấu Xong cho session]{.underline}](#hướng-dẫn-đánh-dấu-xong-cho-session)
+[[10. Hướng dẫn Đánh dấu Xong cho session]](#hướng-dẫn-đánh-dấu-xong-cho-session)
 
-[[(Guide to Marking a Session as Done)]{.underline}](#guide-to-marking-a-session-as-done)
+[[(Guide to Marking a Session as Done)]](#guide-to-marking-a-session-as-done)
 
-[[11. Làm thế nào để thêm mẫu tin nhắn Omni và sử dụng chúng?]{.underline}](#làm-thế-nào-để-thêm-mẫu-tin-nhắn-omni-và-sử-dụng-chúng)
+[[11. Làm thế nào để thêm mẫu tin nhắn Omni và sử dụng chúng?]](#làm-thế-nào-để-thêm-mẫu-tin-nhắn-omni-và-sử-dụng-chúng)
 
-[[(How to Add and Use Omni Message Templates?)]{.underline}](#how-to-add-and-use-omni-message-templates)
+[[(How to Add and Use Omni Message Templates?)]](#how-to-add-and-use-omni-message-templates)
 
-> [[11.1. Hướng dẫn thêm/ sửa/ xóa mẫu tin nhắn Omni]{.underline}](#hướng-dẫn-thêm-sửa-xóa-mẫu-tin-nhắn-omni)
+> [[11.1. Hướng dẫn thêm/ sửa/ xóa mẫu tin nhắn Omni]](#hướng-dẫn-thêm-sửa-xóa-mẫu-tin-nhắn-omni)
 >
-> [[(Guide to Add/Edit/Delete Omni Message Templates)]{.underline}](#guide-to-addeditdelete-omni-message-templates)
+> [[(Guide to Add/Edit/Delete Omni Message Templates)]](#guide-to-addeditdelete-omni-message-templates)
 >
-> [[11.1.1. Hướng dẫn thêm mẫu tin nhắn]{.underline}](#hướng-dẫn-thêm-mẫu-tin-nhắn)
+> [[11.1.1. Hướng dẫn thêm mẫu tin nhắn]](#hướng-dẫn-thêm-mẫu-tin-nhắn)
 >
-> [[(Guide to Adding a Message Template)]{.underline}](#guide-to-adding-a-message-template)
+> [[(Guide to Adding a Message Template)]](#guide-to-adding-a-message-template)
 >
-> [[11.1.2. Hướng dẫn chỉnh sửa mẫu tin nhắn]{.underline}](#hướng-dẫn-chỉnh-sửa-mẫu-tin-nhắn)
+> [[11.1.2. Hướng dẫn chỉnh sửa mẫu tin nhắn]](#hướng-dẫn-chỉnh-sửa-mẫu-tin-nhắn)
 >
-> [[(Guide to Editing a Message Template)]{.underline}](#guide-to-editing-a-message-template)
+> [[(Guide to Editing a Message Template)]](#guide-to-editing-a-message-template)
 >
-> [[11.1.3. Hướng dẫn xóa mẫu tin nhắn]{.underline}](#hướng-dẫn-xóa-mẫu-tin-nhắn)
+> [[11.1.3. Hướng dẫn xóa mẫu tin nhắn]](#hướng-dẫn-xóa-mẫu-tin-nhắn)
 >
-> [[(Guide to Deleting a Message Template)]{.underline}](#guide-to-deleting-a-message-template)
+> [[(Guide to Deleting a Message Template)]](#guide-to-deleting-a-message-template)
 >
-> [[11.2. Hướng dẫn sử dụng mẫu tin nhắn Omni]{.underline}](#hướng-dẫn-sử-dụng-mẫu-tin-nhắn-omni)
+> [[11.2. Hướng dẫn sử dụng mẫu tin nhắn Omni]](#hướng-dẫn-sử-dụng-mẫu-tin-nhắn-omni)
 >
-> [[(Omni Message Template User Guide)]{.underline}](#omni-message-template-user-guide)
+> [[(Omni Message Template User Guide)]](#omni-message-template-user-guide)
 
-[[12. Hướng dẫn thiết lập thời gian đóng session?]{.underline}](#hướng-dẫn-thiết-lập-thời-gian-đóng-session)
+[[12. Hướng dẫn thiết lập thời gian đóng session?]](#hướng-dẫn-thiết-lập-thời-gian-đóng-session)
 
-[[(Guide to Setting Up Session Timeout)]{.underline}](#guide-to-setting-up-session-timeout)
+[[(Guide to Setting Up Session Timeout)]](#guide-to-setting-up-session-timeout)
 
-[[13. Hướng dẫn cấu hình thời gian chờ thay đổi người phụ trách khi chưa trả lời session:]{.underline}](#hướng-dẫn-cấu-hình-thời-gian-chờ-thay-đổi-người-phụ-trách-khi-chưa-trả-lời-session)
+[[13. Hướng dẫn cấu hình thời gian chờ thay đổi người phụ trách khi chưa trả lời session:]](#hướng-dẫn-cấu-hình-thời-gian-chờ-thay-đổi-người-phụ-trách-khi-chưa-trả-lời-session)
 
-> [[(Guide to Configuring the Timeout for Changing the Assignee When There Is No Response to the Session)]{.underline}](#guide-to-configuring-the-timeout-for-changing-the-assignee-when-there-is-no-response-to-the-session)
+> [[(Guide to Configuring the Timeout for Changing the Assignee When There Is No Response to the Session)]](#guide-to-configuring-the-timeout-for-changing-the-assignee-when-there-is-no-response-to-the-session)
 
-[[14. Hướng dẫn Thiết lập tự động trả lời và gửi tin nhắn trên FB]{.underline}](#hướng-dẫn-thiết-lập-tự-động-trả-lời-và-gửi-tin-nhắn-trên-fb)
+[[14. Hướng dẫn Thiết lập tự động trả lời và gửi tin nhắn trên FB]](#hướng-dẫn-thiết-lập-tự-động-trả-lời-và-gửi-tin-nhắn-trên-fb)
 
-[[(Guide to Setting Up Auto-Reply and Sending Messages on Facebook)]{.underline}](#guide-to-setting-up-auto-reply-and-sending-messages-on-facebooky)
+[[(Guide to Setting Up Auto-Reply and Sending Messages on Facebook)]](#guide-to-setting-up-auto-reply-and-sending-messages-on-facebooky)
 
-[[15. Hướng dẫn Thiết lập thời hạn phản hồi và cảnh báo trước khi hết hạn phản hồi cho session Omni]{.underline}](#hướng-dẫn-thiết-lập-thời-hạn-phản-hồi-và-cảnh-báo-trước-khi-hết-hạn-phản-hồi-cho-session-omni)
+[[15. Hướng dẫn Thiết lập thời hạn phản hồi và cảnh báo trước khi hết hạn phản hồi cho session Omni]](#hướng-dẫn-thiết-lập-thời-hạn-phản-hồi-và-cảnh-báo-trước-khi-hết-hạn-phản-hồi-cho-session-omni)
 
-[[(Guide to Setting Up Response Time and Pre-Expiration Warnings for Omni Sessions)]{.underline}](#guide-to-setting-up-response-time-and-pre-expiration-warnings-for-omni-sessions)
+[[(Guide to Setting Up Response Time and Pre-Expiration Warnings for Omni Sessions)]](#guide-to-setting-up-response-time-and-pre-expiration-warnings-for-omni-sessions)
 
 [16. Các thao tác với khách hàng](#các-thao-tác-với-khách-hàng)
 
-[[(Customer operations)]{.underline}](#customer-operations)
+[[(Customer operations)]](#customer-operations)
 
-[[17. Hướng dẫn đánh dấu chưa đọc]{.underline}](#hướng-dẫn-đánh-dấu-chưa-đọc)
+[[17. Hướng dẫn đánh dấu chưa đọc]](#hướng-dẫn-đánh-dấu-chưa-đọc)
 
-[[(Guide to marking as unread)]{.underline}](#guide-to-marking-as-unread)
+[[(Guide to marking as unread)]](#guide-to-marking-as-unread)
 
-[[18. Hướng dẫn thiết lập Danh mục hội thoại]{.underline}](#hướng-dẫn-thiết-lập-danh-mục-hội-thoại)
+[[18. Hướng dẫn thiết lập Danh mục hội thoại]](#hướng-dẫn-thiết-lập-danh-mục-hội-thoại)
 
-[[(Guide to setting up Omnichannel chat Categories)]{.underline}](#guide-to-setting-up-omnichannel-chat-categories)
+[[(Guide to setting up Omnichannel chat Categories)]](#guide-to-setting-up-omnichannel-chat-categories)
 
-[[19. Hướng dẫn cấu hình Cấu hình hiển thị]{.underline}](#hướng-dẫn-cấu-hình-cấu-hình-hiển-thị)
+[[19. Hướng dẫn cấu hình Cấu hình hiển thị]](#hướng-dẫn-cấu-hình-cấu-hình-hiển-thị)
 
-[[(Guide to configuring layout)]{.underline}](#guide-to-configuring-layout)
+[[(Guide to configuring layout)]](#guide-to-configuring-layout)
 
 #  {#section .unnumbered}
 
@@ -198,11 +198,11 @@
 >
 > Lưu ý: tài khoản đăng nhập phải có ít nhất 1 Fanpage
 >
-> Nếu tài khoản của bạn chưa có Fanpage, vui lòng tạo Fanpage theo hướng dẫn [[tại đây]{.underline}](https://docs.google.com/document/d/1_43Ggxz3gbuhyk__1NLfCUM3MxZWnt8SZ6eFxMyqThc/edit?usp=sharing)
+> Nếu tài khoản của bạn chưa có Fanpage, vui lòng tạo Fanpage theo hướng dẫn [[tại đây]](https://docs.google.com/document/d/1_43Ggxz3gbuhyk__1NLfCUM3MxZWnt8SZ6eFxMyqThc/edit?usp=sharing)
 >
 > *(Case 1: If you are not logged into Facebook, when you click the Integrate button, a dialog box will appear asking you to log in to Facebook. You must log in to integrate.\
 > Note: The account you log in with must have at least one Fanpage.\
-> If your account does not have a Fanpage, please create one following the instructions [[here]{.underline}](https://docs.google.com/document/d/1_43Ggxz3gbuhyk__1NLfCUM3MxZWnt8SZ6eFxMyqThc/edit?usp=sharing))*
+> If your account does not have a Fanpage, please create one following the instructions [[here]](https://docs.google.com/document/d/1_43Ggxz3gbuhyk__1NLfCUM3MxZWnt8SZ6eFxMyqThc/edit?usp=sharing))*
 >
 > ![](./media/media/image236.png)
 >
@@ -282,7 +282,7 @@ Thiết lập cho Fanpage gồm có các mục sau:
 | Mục                                                                                                     | Mô tả                                                                                                                                                                                                                                                                                                                                                     |
 |                                                                                                         |                                                                                                                                                                                                                                                                                                                                                           |
 | *(Sessions)*                                                                                            | *(Description)*                                                                                                                                                                                                                                                                                                                                           |
-+=========================================================================================================+===========================================================================================================================================================================================================================================================================================================================================================+
++-+-+
 | Nhóm                                                                                                    | Danh sách nhóm sẽ chịu trách nhiệm hỗ trợ khách hàng                                                                                                                                                                                                                                                                                                      |
 |                                                                                                         |                                                                                                                                                                                                                                                                                                                                                           |
 | *(Group)*                                                                                               | bình luận facebook...                                                                                                                                                                                                                                                                                                                                     |
@@ -892,9 +892,9 @@ Bước 4. Nhấn Enter để gửi trả lời bình luận
 
 ![](./media/media/image101.png)
 
-Bạn có thể trả lời bình luận bằng mẫu tin nhắn Omni, các thao tác làm giống như phần II. [[4.2. Hướng dẫn gửi bình luận dùng mẫu tin nhắn Omni]{.underline}](https://docs.google.com/document/d/1aKL6SXUiwzJGkLm_N6T7bUjq-oOiuVJBSD8qh4qLXA0/edit#heading=h.5yzvwr7wokfb)
+Bạn có thể trả lời bình luận bằng mẫu tin nhắn Omni, các thao tác làm giống như phần II. [[4.2. Hướng dẫn gửi bình luận dùng mẫu tin nhắn Omni]](https://docs.google.com/document/d/1aKL6SXUiwzJGkLm_N6T7bUjq-oOiuVJBSD8qh4qLXA0/edit#heading=h.5yzvwr7wokfb)
 
-*(You can reply to the comment using an Omni message template. The steps are the same as in [[Section II.4.2, \'Guide to Sending Comments Using Omni Message Templates.]{.underline}](https://docs.google.com/document/d/1aKL6SXUiwzJGkLm_N6T7bUjq-oOiuVJBSD8qh4qLXA0/edit#heading=h.5yzvwr7wokfb))*
+*(You can reply to the comment using an Omni message template. The steps are the same as in [[Section II.4.2, \'Guide to Sending Comments Using Omni Message Templates.]](https://docs.google.com/document/d/1aKL6SXUiwzJGkLm_N6T7bUjq-oOiuVJBSD8qh4qLXA0/edit#heading=h.5yzvwr7wokfb))*
 
 ## 5.3. Hướng dẫn xem bài viết,bình luận trên facebook {#hướng-dẫn-xem-bài-viếtbình-luận-trên-facebook .unnumbered}
 
@@ -1724,9 +1724,9 @@ Khi session tới hạn thiết lập ở *(2)*, sẽ hiển thị giao diện s
 
 # *(Customer operations)* {#customer-operations .unnumbered}
 
-Xem hướng dẫn các thao tác với khách hàng như chỉnh sửa thông tin khách hàng, thêm ticket, nhiệm vụ liên quan [[tại đây]{.underline}](https://docs.google.com/document/d/15uPmi4DaFvESSU9Vn9E1IJWrPB3fENf7BAuQ3UqsfJM/edit#heading=h.8vie7jtm29xs)
+Xem hướng dẫn các thao tác với khách hàng như chỉnh sửa thông tin khách hàng, thêm ticket, nhiệm vụ liên quan [[tại đây]](https://docs.google.com/document/d/15uPmi4DaFvESSU9Vn9E1IJWrPB3fENf7BAuQ3UqsfJM/edit#heading=h.8vie7jtm29xs)
 
-*(View the guide for customer operations such as editing customer information, adding tickets, and related tasks [[here]{.underline}](https://docs.google.com/document/d/15uPmi4DaFvESSU9Vn9E1IJWrPB3fENf7BAuQ3UqsfJM/edit?usp=sharing).)*
+*(View the guide for customer operations such as editing customer information, adding tickets, and related tasks [[here]](https://docs.google.com/document/d/15uPmi4DaFvESSU9Vn9E1IJWrPB3fENf7BAuQ3UqsfJM/edit?usp=sharing).)*
 
 # 17. Hướng dẫn đánh dấu chưa đọc {#hướng-dẫn-đánh-dấu-chưa-đọc .unnumbered}
 
