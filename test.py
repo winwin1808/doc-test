@@ -1,82 +1,63 @@
-import subprocess
 import os
 import re
+import base64
 
-
-def convert_docx_to_markdown(input_docx, output_md):
+def convert_base64_images(md_file, output_md):
     """
-    Converts a .docx file to Markdown using Pandoc and fixes issues with tables.
+    Converts Base64-encoded images in a Markdown file to local image files.
+    
+    :param md_file: Path to the original Markdown file.
+    :param output_md: Path to the output Markdown file with updated image paths.
     """
     try:
-        if not os.path.exists(input_docx):
-            raise FileNotFoundError(f"Input file '{input_docx}' does not exist.")
-        
+        # Read the Markdown file
+        with open(md_file, "r", encoding="utf-8") as file:
+            content = file.read()
+
+        # Create a folder to save images
         media_folder = os.path.join(os.path.dirname(output_md), "media")
         if not os.path.exists(media_folder):
             os.makedirs(media_folder)
 
-        command = [
-            "pandoc",
-            input_docx,
-            "-o", output_md,
-            "--extract-media=./media",
-            "--columns=100",
-            "--wrap=none",
-            "--from", "docx",
-            "--to", "markdown"
-        ]
+        # Find all Base64-encoded images
+        base64_images = re.findall(r'\[.*?\]:\s*<data:image/.*?;base64,(.*?)>', content)
 
-        subprocess.run(command, check=True)
+        # Replace Base64-encoded images with local file paths
+        for idx, base64_data in enumerate(base64_images):
+            try:
+                # Decode the Base64 image
+                image_data = base64.b64decode(base64_data)
+                image_name = f"image_{idx + 1}.png"
+                image_path = os.path.join(media_folder, image_name)
 
-        print(f"Conversion successful! Markdown file saved at: {output_md}")
-        print(f"Extracted media saved in './media' folder.")
+                # Save the image
+                with open(image_path, "wb") as img_file:
+                    img_file.write(image_data)
 
-        fix_table_formatting(output_md)
+                # Replace the Base64 reference in the Markdown file
+                content = content.replace(
+                    f"<data:image/png;base64,{base64_data}>",
+                    f"./media/{image_name}"
+                )
 
-    except subprocess.CalledProcessError as e:
-        print("An error occurred during conversion:", e)
-    except Exception as e:
-        print("An error occurred:", e)
+                print(f"Extracted image saved as: {image_path}")
 
+            except Exception as e:
+                print(f"Failed to decode and save image {idx + 1}: {e}")
 
-def fix_table_formatting(md_file):
-    """
-    Fixes complex Markdown tables by simplifying them to standard table syntax.
-    """
-    try:
-        with open(md_file, "r", encoding="utf-8") as file:
-            content = file.read()
-
-        # Remove extra separators like '=' in tables
-        content = re.sub(r'\+\=+\+', r'+---+', content)
-
-        # Standardize table headers and separators
-        content = re.sub(r'\| +\| +', '|', content)  # Fix spacing in table rows
-        content = re.sub(r'^\| [^\|]* \|$', lambda m: fix_table_row(m.group()), content, flags=re.MULTILINE)
-
-        # Remove excessive empty table rows
-        content = re.sub(r'\| +\| +', '|', content)
-
-        with open(md_file, "w", encoding="utf-8") as file:
+        # Save the updated Markdown file
+        with open(output_md, "w", encoding="utf-8") as file:
             file.write(content)
 
-        print(f"Table formatting fixed in: {md_file}")
+        print(f"Converted Markdown file saved at: {output_md}")
+        print(f"Images saved in: {media_folder}")
 
     except Exception as e:
-        print("An error occurred while fixing table formatting:", e)
-
-
-def fix_table_row(row):
-    """
-    Ensures consistent column alignment for a Markdown table row.
-    """
-    columns = row.strip('|').split('|')
-    fixed_columns = [col.strip() for col in columns]
-    return '| ' + ' | '.join(fixed_columns) + ' |'
+        print(f"An error occurred: {e}")
 
 
 # Example usage
 if __name__ == "__main__":
-    input_file = "example.docx"  # Replace with your .docx file
-    output_file = "example.md"  # Desired output .md file
-    convert_docx_to_markdown(input_file, output_file)
+    input_md = "test1.md"  # Path to the original Markdown file
+    output_md = "output.md"      # Path to the output Markdown file
+    convert_base64_images(input_md, output_md)
